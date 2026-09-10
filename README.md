@@ -70,7 +70,7 @@ flock-energy-api/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/thvvamshi/flock-energy-api
 cd flock-energy-api
 ```
 
